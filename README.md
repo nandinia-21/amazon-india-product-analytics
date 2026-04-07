@@ -9,7 +9,7 @@ The goal was to evaluate whether commonly assumed drivers of customer satisfacti
 ## Key Insights
 * Weak correlation between review sentiment and ratings (**r ≈ 0.18**)
 * Discount percentage does not strongly influence product ratings
-* Identified **“discount traps”** — products with high discounts but low ratings
+* Identified **“discount traps”** - products with high discounts but low ratings
 * Customer satisfaction is influenced by factors beyond pricing and written reviews
   
 ## Techniques Used
