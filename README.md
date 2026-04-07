@@ -32,7 +32,7 @@ The goal was to evaluate whether commonly assumed drivers of customer satisfacti
 * Highlighted products with **high discount (>50%) and low rating (<3.5)**
 
 **Tableau Public Dashboard**:
-[https://public.tableau.com/app/profile/nandini.arora2557/viz/AmazonIndiaProductAnalyticsSentimentAnalysis/AmazonIndiaProductAnalyticsPricingRatingsSentimentInsights]
+[View Tableau Dashboard(s)](https://public.tableau.com/app/profile/nandini.arora2557/viz/AmazonIndiaProductAnalyticsSentimentAnalysis/AmazonIndiaProductAnalyticsPricingRatingsSentimentInsights)
 
 ##  Project Structure
 ```
