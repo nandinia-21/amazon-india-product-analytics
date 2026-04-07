@@ -33,6 +33,12 @@ The goal was to evaluate whether commonly assumed drivers of customer satisfacti
 
 **Tableau Public Dashboard**:
 [View Tableau Dashboard(s)](https://public.tableau.com/app/profile/nandini.arora2557/viz/AmazonIndiaProductAnalyticsSentimentAnalysis/AmazonIndiaProductAnalyticsPricingRatingsSentimentInsights)
+[GitHub Repository]
+(https://github.com/nandinia-21/amazon-india-product-analytics)
+
+**Dashboard Images**
+![Dashboard 1](overview_dashboard.png)
+![Dashboard 2](Discount_traps_dashboard.png)
 
 ##  Project Structure
 ```
