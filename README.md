@@ -12,7 +12,7 @@ The goal was to evaluate whether commonly assumed drivers of customer satisfacti
 * Identified **“discount traps”** — products with high discounts but low ratings
 * Customer satisfaction is influenced by factors beyond pricing and written reviews
   
-## 🛠️ Techniques Used
+## Techniques Used
 * **Python**: Data cleaning, feature engineering, EDA
 * **Pandas & Seaborn**: Data analysis and visualization
 * **NLP (TextBlob)**: Sentiment analysis on customer reviews
